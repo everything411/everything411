@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **fuzzing**...
 - 💬 Maintainer of various services & servers of BITNP
 - ⚡ Maintainer of the Mirror Service of Beijing Institute of Technology
 - 📫 How to reach me: everything411@163.com
-
-![everything411's GitHub stats](https://github-readme-stats.vercel.app/api?username=everything411)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=everything411&hide=css&layout=compact)
