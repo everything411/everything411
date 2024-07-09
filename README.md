@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💬 Maintainer of various services & servers of BITNP
+- 🌱 Undergraduate student at Beijing Institute of Technology (2018 - 2022); Graduate student at Beijing Institute of Technology (2022 - present)
+- 👯 Member of BITNP (2018 - present) and BITNSC (2019 - present)
 - ⚡ Maintainer of the Mirror Service of Beijing Institute of Technology
+- 😄 Used to be a CTFer
+- 🔭 I’m currently working on fuzzing in lab420 (2021 - present)
 - 📫 How to reach me: everything411@163.com
