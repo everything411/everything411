@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 😄 Real name is 张正 in Chinese (Zheng Zhang), nick names include everything411, 洛水天依 and something like that.
 - 🌱 Undergraduate student at Beijing Institute of Technology (2018 - 2022); Graduate student at Beijing Institute of Technology (2022 - present)
 - 👯 Member of BITNP (2018 - present) and BITNSC (2019 - present)
 - ⚡ Maintainer of the Mirror Service of Beijing Institute of Technology
-- 😄 Used to be a CTFer
-- 🔭 I’m currently working on fuzzing in lab420 (2021 - present)
-- 📫 How to reach me: everything411@163.com
+- 🔭 Used to be a CTFer, currently working on fuzzing in lab420 (2021 - present)
+- 📫 How to reach me: everything411 at 163.com, everything411 at qq.com, luoshuitianyi411 at gmail.com, everything411 at bit.edu.cn
