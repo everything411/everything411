@@ -1,21 +1,5 @@
 ### Hi there 👋
 
-<!--
-**everything411/everything411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 😄 Real name is Zhang Zheng, nick names include everything411 and 洛水天依
-- 👯 Proud to be a member of BITNP and BITNSC
-- ⚡ Maintainer of the Mirror Service of Beijing Institute of Technology
-- 🔭 Used to be a CTFer, working on fuzzing in lab420 now 
-- 📫 How to reach me: everything411 at 163.com, everything411 at qq.com, luoshuitianyi411 at gmail.com, everything411 at bit.edu.cn
+- ⚡ proud to be a member of @BITNP, current sysadmin of BITNP and maintainer of mirror.bit.edu.cn
+- 🔭 security developer, previous CTFer @BITNSC, working on fuzzing in lab420 @BITlab420
+- 📫 how to reach me: everything411 at 163.com, everything411 at qq.com, luoshuitianyi411 at gmail.com
